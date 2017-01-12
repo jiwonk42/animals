@@ -1,3 +1,9 @@
 #turtles, #snakes, #insects {
   display: none;
 }
+
+.snake-img {
+  width: 400px;
+
+
+}
